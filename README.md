@@ -1,7 +1,7 @@
 # Py-Copy-Directory-Structure-Without-Files
 Python – Copy Directory Structure Without Files
 ## Features
-###Source directory:###
+###Source directory:
 ***User input code directory WITH FILES***
-### Destination directory  :###
+### Destination directory  :
 ***destination directory WITHOUT FILES***
