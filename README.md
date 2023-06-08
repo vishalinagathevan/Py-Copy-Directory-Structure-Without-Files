@@ -2,4 +2,4 @@
 Python – Copy Directory Structure Without Files
 ## Features
 **source directory :**
-***   User input code directory with FILES***
+***User input code directory with FILES***
